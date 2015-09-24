@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:UICatalog"
+      name = "UICatalog">
+      <FileRef
+         location = "group:ReadMe.txt">
+      </FileRef>
+      <Group
+         location = "group:UICatalog"
+         name = "UICatalog">
+         <FileRef
+            location = "group:AAPLActionSheetViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLActionSheetViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLActivityIndicatorViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLActivityIndicatorViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLAlertViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLAlertViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLAppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLAppDelegate.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLButtonViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLButtonViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLCustomSearchBarViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLCustomSearchBarViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLCustomToolbarViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLCustomToolbarViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLDatePickerController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLDatePickerController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLDefaultSearchBarViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLDefaultSearchBarViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLDefaultToolbarViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLDefaultToolbarViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLImageViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLImageViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLMasterViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLMasterViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLPageControlViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLPageControlViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLPickerViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLPickerViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLProgressViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLProgressViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLSegmentedControlViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLSegmentedControlViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLSliderViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLSliderViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLSplitViewControllerDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLSplitViewControllerDelegate.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLStepperViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLStepperViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLSwitchViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLSwitchViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLTextFieldViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLTextFieldViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLTextViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLTextViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLTintedToolbarViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLTintedToolbarViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLWebViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AAPLWebViewController.m">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:Main_iPad.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main_iPhone.storyboard">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:Localizable.strings">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Images.xcassets"
+            name = "Images.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:bookmark_icon.imageset"
+               name = "bookmark_icon.imageset">
+               <FileRef
+                  location = "group:bookmark_icon_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bookmark_icon_2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:bookmark_icon_highlighted.imageset"
+               name = "bookmark_icon_highlighted.imageset">
+               <FileRef
+                  location = "group:bookmark_icon_highlighted_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:bookmark_icon_highlighted_2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:checkmark_icon.imageset"
+               name = "checkmark_icon.imageset">
+               <FileRef
+                  location = "group:checkmark_icon_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:checkmark_icon_2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:image_animal_1.imageset"
+               name = "image_animal_1.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:image_animal_5.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:image_animal_2.imageset"
+               name = "image_animal_2.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:image_animal_2.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:image_animal_3.imageset"
+               name = "image_animal_3.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:image_animal_3.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:image_animal_4.imageset"
+               name = "image_animal_4.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:image_animal_4.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:image_animal_5.imageset"
+               name = "image_animal_5.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:image_animal_1.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:LaunchImage.launchimage"
+               name = "LaunchImage.launchimage">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:search_bar_background.imageset"
+               name = "search_bar_background.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:search_bar_bg_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:search_bar_bg_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:search_icon.imageset"
+               name = "search_icon.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:search_icon_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:search_icon_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:slider_blue_track.imageset"
+               name = "slider_blue_track.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:slider_blue_track_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:slider_blue_track_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:slider_green_track.imageset"
+               name = "slider_green_track.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:slider_green_track_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:slider_green_track_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:slider_thumb.imageset"
+               name = "slider_thumb.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:slider_thumb_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:slider_thumb_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:stepper_and_segment_background.imageset"
+               name = "stepper_and_segment_background.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:stepper_and_segment_background_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:stepper_and_segment_background_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:stepper_and_segment_background_disabled.imageset"
+               name = "stepper_and_segment_background_disabled.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:stepper_and_segment_background_disabled_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:stepper_and_segment_background_disabled_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:stepper_and_segment_background_highlighted.imageset"
+               name = "stepper_and_segment_background_highlighted.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:stepper_and_segment_background_highlighted_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:stepper_and_segment_background_highlighted_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:stepper_and_segment_segment_divider.imageset"
+               name = "stepper_and_segment_segment_divider.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:stepper_and_segment_segment_divider_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:stepper_and_segment_segment_divider_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:stepper_decrement.imageset"
+               name = "stepper_decrement.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:decrement_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:decrement_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:stepper_increment.imageset"
+               name = "stepper_increment.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:stepper_increment_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:stepper_increment_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:text_field_background.imageset"
+               name = "text_field_background.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:text_field_background_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:text_field_background_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:text_field_purple_right_view.imageset"
+               name = "text_field_purple_right_view.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:text_field_purple_right_view_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:text_field_purple_right_view_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:text_view_attachment.imageset"
+               name = "text_view_attachment.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:text_view_attachment_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:text_view_attachment_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:toolbar_background.imageset"
+               name = "toolbar_background.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:toolbar_background_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:toolbar_background_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tools_icon.imageset"
+               name = "tools_icon.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:tools_icon_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:tools_icon_2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:x_icon.imageset"
+               name = "x_icon.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:x_icon_1x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:x_icon_2x.png">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:UICatalog-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:UICatalog-Prefix.pch">
+         </FileRef>
+         <FileRef
+            location = "group:UIColor+AAPLApplicationSpecific.h">
+         </FileRef>
+         <FileRef
+            location = "group:UIColor+AAPLApplicationSpecific.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:UICatalog.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
